@@ -2,7 +2,7 @@
 title: Yuhua Zhong
 position: Ph.D. Student
 affiliation: Sun Yat-sen University
-email: zhongyh39@mail2.sysu.edu
+email: zhongyh39@mail2.sysu.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -20,9 +20,9 @@ github_link: https://github.com/Ketin12138
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/photo.png
-favicon: ./assets/img/photo1.png
-favicon_dark: ./assets/img/photo1.png
+avatar: ./assets/img/photo.jpg
+favicon: ./assets/img/photo1.jpg
+favicon_dark: ./assets/img/photo1.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
