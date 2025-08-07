@@ -22,4 +22,3 @@ I am broadly interested in Depth Estimation, with a focus on semi-supervised lea
 
 {% include_relative _includes/services.md %}
 
-{% include_relative _includes/teaching.md %}
