@@ -22,8 +22,8 @@ orcid: https://orcid.org/my-orcid?orcid=0009-0003-2688-6970
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/photo.jpg
-favicon: ./assets/img/photo1.jpg
-favicon_dark: ./assets/img/photo1.jpg
+favicon: ./assets/img/photo1.png
+favicon_dark: ./assets/img/photo1.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
