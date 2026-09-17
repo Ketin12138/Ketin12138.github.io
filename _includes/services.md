@@ -16,8 +16,9 @@
     <a href="https://eccv.ecva.net/">
       <autocolor>European Conference on Computer Vision (ECCV) 2026</autocolor>
     </a>
+  </li>
   <li>
-    <a href="https://eccv.ecva.net/">
+    <a href="https://neurips.cc/">
       <autocolor>Neural Information Processing Systems (NIPS) 2026</autocolor>
     </a>
   </li>
