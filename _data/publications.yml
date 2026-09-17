@@ -4,7 +4,7 @@ main:
     authors: <strong>Yuhua Zhong</strong>, You Hao, Xiaofeng Wu, Tianli Liao, Ce Wang
     conference_short: PR-26
     conference: Pattern Recognition <strong>(PR)</strong>, 2026
-    pdf: https://www.nature.com/articles/s41598-025-08882-7
+    pdf: 
     code: https://github.com/Ketin12138/TriConDepth
     image: ./assets/img/Contrast26.png
     
