@@ -10,11 +10,12 @@ I am broadly interested in Depth Estimation, with a focus on semi-supervised lea
 
 ## Research Interests
 
-- **Computer Vision:** Depth Estimation, Depth Completion
+- **Computer Vision:** Depth Estimation, Depth Completion, 3D vision
 - **Machine Learning:** Semi-supervised Learning, Contrastive Learning
 
 ## News
 
+- **[2026-09]** My paper about Semi-supervised Contrastive Learning Depth Estimation is accepted to Pattern Recognition.
 - **[2025-07]** My paper about Machine Learning for Sports Outcome Prediction is accepted to Scientific Reports.
 - **[2024-09]** Start my PhD journey @SYSU.
 
