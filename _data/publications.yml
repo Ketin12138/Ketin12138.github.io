@@ -1,5 +1,13 @@
 main:
 
+  - title: Leveraging Unlabeled Data via Semi-Supervised Contrastive Learning for Enhanced Monocular Depth Estimation
+    authors: <strong>Yuhua Zhong</strong>, You Hao, Xiaofeng Wu, Tianli Liao, Ce Wang
+    conference_short: PR-26
+    conference: Pattern Recognition <strong>(PR)</strong>, 2026
+    pdf: https://www.nature.com/articles/s41598-025-08882-7
+    code: https://github.com/Ketin12138/TriConDepth
+    image: ./assets/img/Contrast26.png
+    
   - title: Enhancing Game Outcome Prediction in the Chinese Basketball League through a Machine Learning Framework Based on Performance Data
     authors: <strong>Yuhua Zhong</strong>
     conference_short: SR-25
