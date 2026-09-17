@@ -15,8 +15,8 @@ I am broadly interested in Depth Estimation, with a focus on semi-supervised lea
 
 ## News
 
-- **[2026-09]** My paper about Semi-supervised Contrastive Learning Depth Estimation is accepted to <strong>Pattern Recognition</strong>(<strong>IF: 9.1</strong>).
-- **[2025-07]** My paper about Machine Learning for Sports Outcome Prediction is accepted to <strong>Scientific Reports</strong>(<strong>IF: 4.9</strong>).
+- **[2026-09]** My paper about Semi-supervised Contrastive Learning Depth Estimation is accepted to Pattern Recognition(<strong>IF: 9.1</strong>).
+- **[2025-07]** My paper about Machine Learning for Sports Outcome Prediction is accepted to Scientific Reports(<strong>IF: 4.9</strong>).
 - **[2024-09]** Start my PhD journey @SYSU.
 
 {% include_relative _includes/publications.md %}
